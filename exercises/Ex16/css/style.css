@@ -1,0 +1,6 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat (3, 45px);
+    grid-template-rows: repeat(3, 45px);
+    background: aqua;
+}
